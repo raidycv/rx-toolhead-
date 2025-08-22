@@ -17,6 +17,12 @@ This may be your favorite toolhead
    •    Looks clean & professional — Not your average DIY toolheads 
   
 
+ IMPORTANT!
+ After installing, here is the new Rotation distance for A1 gear [rotation_distance: 4.7123281892773 ]
+
+  
+  I did a video in another version I made for my A1 mini clone, if you need some idea how it works, check it there https://www.youtube.com/watch?v=fmWzvf_7V3c&ab_channel=RayLenses
+
 BOOM
 ⚠️ Note: All links are provided for convenience. I am not affiliated with any sellers.
 # 🛠️ Printhead Parts List
