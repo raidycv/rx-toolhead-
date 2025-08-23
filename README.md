@@ -2,8 +2,10 @@
 This may be your favorite toolhead 
 🔗 Hop into the Discord: [https://discord.gg/jy8PF5Nt](https://discord.gg/tFhNFqTV)
 
+[Support the project and get access to all design files on my Patreon](https://www.patreon.com/c/RayLenses)
 
- If you’re chasing top-tier print quality without breaking the bank, this DIY A1-style is a game changer. It’s not just a copy — it’s modular, efficient, and full of smart upgrades that rival even the original.
+
+ If you’re chasing top-tier print quality without breaking the bank, this DIY A1-style is a game-changer. It’s not just a copy — it’s modular, efficient, and full of smart upgrades that rival even the original.
 
 ✅ Why Build One?
    •    Incredible print quality — Fully compatible with Bambu slicer profiles
