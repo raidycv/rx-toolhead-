@@ -62,7 +62,6 @@ Links are provided for reference (Amazon, Bambu Store, Alibaba, etc.).
 ## 🌀 Cooling & Fans
 - **Hotend Cooling Fan 25×25×10mm**  
   [Amazon 1](https://amzn.to/4knDiiu) | [Amazon 2](https://amzn.to/4jAukNG)
-- **Model Cooling Fan GDSTIME 5015 Blower** – [Amazon](https://amzn.to/4dA5kV4)  
 
 ---
 
@@ -78,12 +77,12 @@ Links are provided for reference (Amazon, Bambu Store, Alibaba, etc.).
 - **M3 Square Nuts** – [Amazon](https://amzn.to/44UxJTG)  
 - **Metric Screws Kit** – [Amazon](https://amzn.to/4kk8a3j)  
 - **M3 Heat Set Inserts** – [Amazon](https://amzn.to/4kFgrOS)  
-- **Pneumatic Fittings PC4-M6**  
+
 
 ---
 
 ## 🖲️ Switches & Sensors
-- **Micro Switch (standard, wears out over time)** – [Amazon](https://amzn.to/3StHd0K)
+- **Micro Switch – [Amazon](https://amzn.to/3StHd0K)
 - *3.5 mm Ball Bearing** – [Amazon](https://amzn.to/45RsvqI)  
   > 💡 Tip: If available, you may also reuse the 3.5 mm balls found inside some **5 mm T-slot nuts**.  
 
