@@ -2,11 +2,6 @@
 This may be your favorite toolhead 
 🔗 Hop into the Discord: [https://discord.gg/jy8PF5Nt](https://discord.gg/tFhNFqTV)
 
-[Front View]([URL_or_path_to_image](https://github.com/raidycv/rx-toolhead-/blob/main/Images/RX%20VORON_7429.jpeg))
-
-
-
-
 
  If you’re chasing top-tier print quality without breaking the bank, this DIY A1-style is a game changer. It’s not just a copy — it’s modular, efficient, and full of smart upgrades that rival even the original.
 
@@ -22,7 +17,7 @@ This may be your favorite toolhead
    •    Consistently reliable — Solid mechanical structure, built to last
    •    Looks clean & professional — Not your average DIY toolheads 
   
-
+[Front View]([URL_or_path_to_image](https://github.com/raidycv/rx-toolhead-/blob/main/Images/RX%20VORON_7429.jpeg))
  IMPORTANT!
  After installing, here is the new Rotation distance for A1 gear [rotation_distance: 4.7123281892773 ]
 
