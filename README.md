@@ -5,7 +5,7 @@ This may be your favorite toolhead
 [Support the project and get access to all design files on my Patreon](https://www.patreon.com/c/RayLenses)
 
 
- If you’re chasing top-tier print quality without breaking the bank, this DIY A1-style is a game-changer. It’s not just a copy — it’s modular, efficient, and full of smart upgrades that rival even the original.
+ If you’re chasing top-tier print quality without breaking the bank, this DIY A1-style and H2D is a game-changer. It’s modular, efficient, and full of smart upgrades that rival even the original.
 
 ✅ Why Build One?
    •    Incredible print quality — Fully compatible with Bambu slicer profiles
@@ -18,12 +18,16 @@ This may be your favorite toolhead
    •    Affordable parts — Clone components are widely available and budget-friendly
    •    Consistently reliable — Solid mechanical structure, built to last
    •    Looks clean & professional — Not your average DIY toolheads 
+
+
   
 [Front View]([URL_or_path_to_image](https://github.com/raidycv/rx-toolhead-/blob/main/Images/RX%20VORON_7429.jpeg))
  IMPORTANT!
  After installing, here is the new Rotation distance for A1 gear [rotation_distance: 4.7123281892773 ]
 
-  
+This printhead version requires a cpap cooling 
+
+
   I did a video in another version I made for my A1 mini clone, if you need some idea how it works, check it there https://www.youtube.com/watch?v=fmWzvf_7V3c&ab_channel=RayLenses
 
 
