@@ -1,6 +1,12 @@
-# rx-toolhead-
+![RX VORON_7429](https://github.com/user-attachments/assets/7daf09bf-198c-435c-a06a-99a0c1a02909)# rx-toolhead-
 This may be your favorite toolhead 
-🔗 Hop into the Discord: https://discord.gg/jy8PF5Nt
+🔗 Hop into the Discord: [https://discord.gg/jy8PF5Nt](https://discord.gg/tFhNFqTV)
+
+[Front View]([URL_or_path_to_image](https://github.com/raidycv/rx-toolhead-/blob/main/Images/RX%20VORON_7429.jpeg))
+
+
+
+
 
  If you’re chasing top-tier print quality without breaking the bank, this DIY A1-style is a game changer. It’s not just a copy — it’s modular, efficient, and full of smart upgrades that rival even the original.
 
@@ -22,6 +28,7 @@ This may be your favorite toolhead
 
   
   I did a video in another version I made for my A1 mini clone, if you need some idea how it works, check it there https://www.youtube.com/watch?v=fmWzvf_7V3c&ab_channel=RayLenses
+
 
 BOOM
 ⚠️ Note: All links are provided for convenience. I am not affiliated with any sellers.
