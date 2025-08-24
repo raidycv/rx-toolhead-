@@ -1,0 +1,54 @@
+[extruder] 
+rotation_distance: 4.7123281892773         ;add this to your extruder rotation distance 
+
+  #this is for your filament sensor switch
+[filament_switch_sensor material_0]
+switch_pin: ^EBBCan:PB3                                                  ;change to your pin name
+pause_on_runout: True
+runout_gcode:
+  
+insert_gcode:
+    LOAD_FILAMENT
+    M117 Filament reloaded
+        RESPOND TYPE=echo MSG=" Filament Loading"
+  
+    
+     #this is for you unload rbutton
+[gcode_button UNL_FILA]
+pin: ^!EBBCan:PB4                                                                 ;change to your pin name
+press_gcode:
+    {% if printer.idle_timeout.state != 'Printing' or printer.pause_resume.is_paused %}
+      M117 Unloading filament
+      RESPOND TYPE=echo MSG="Unloading filament"
+      UNLOAD_FILAMENT
+    {% else %}
+      M117 Cannot unload during print
+    RESPOND TYPE=echo MSG="Cannot unload during print"
+    {% endif %}
+    
+    
+####################################################################################
+##                     Macros  Filament Load Unload
+####################################################################################
+
+
+[gcode_macro LOAD_FILAMENT]
+gcode:
+ G92 E0.0              # Reset the extruder so that it thinks it is at position zero
+ G1 E45 F350          # Move the extruder forward 200mm at a speed of 350mm/minute
+ G92 E0.0              # Reset the extruder again
+ M82                   # Put the extruder back into absolute mode.
+
+ RESPOND TYPE=echo MSG="Loading Filament "
+
+
+
+[gcode_macro UNLOAD_FILAMENT]
+gcode:
+ M83                   # Put the extruder into relative mode
+ G92 E0.0          
+ G1 E-40 F450
+ G92 E0.0              # Reset the extruder again
+ M82                   # Put the extruder back into absolute mode.
+ 
+ RESPOND TYPE=echo MSG="Unloading Filament"
