@@ -95,4 +95,4 @@ Links are provided for reference (Amazon, Bambu Store, Alibaba, etc.).
 - **BIGTREETECH EBB42 CAN Bus** – [Amazon](https://amzn.to/43OYGHk)  
 
 ---
-[Weight]([URL_or_path_to_image](https://github.com/raidycv/rx-toolhead-/blob/main/Images/IMG_1155.jpg))
+[https://github.com/raidycv/rx-toolhead-/blob/main/Images/IMG_1155.jpg]
