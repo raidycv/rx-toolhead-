@@ -1,8 +1,10 @@
+[3D Model](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/Screenshot%202025-09-07%20at%2021.09.40.png)
 ![RX VORON_7429](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/RAI04208.jpg)# rx-toolhead-
 This may be your favorite toolhead 
 🔗 Hop into the Discord: [https://discord.gg/jy8PF5Nt](https://discord.gg/tFhNFqTV)
 
-[Support the project and get access to all design files on my Patreon](https://www.patreon.com/c/RayLenses)
+Support the project and get access to all STEP design files on my [Patreon](https://www.patreon.com/posts/rx-toolhead-v2-138345786?source=storefront)   (if you already purchased V1 files, you have full access to V2 files)
+
 
 
  If you’re chasing top-tier print quality without breaking the bank, this DIY A1-style and H2D is a game-changer. It’s modular, efficient, and full of smart upgrades that rival even the original.
@@ -19,7 +21,6 @@ This may be your favorite toolhead
    •    Consistently reliable — Solid mechanical structure, built to last
    •    Looks clean & professional — Not your average DIY toolheads 
 
-Support the project and get access to all STEP design files on my [Patreon](https://www.patreon.com/posts/rx-toolhead-v2-138345786?source=storefront)   (if you already purchased V1 files, you have full access to V2 files)
 
 
 
@@ -50,6 +51,7 @@ Minor structural and duct refinements for improved airflow, performance, and dur
 
 This printhead version requires a CPAP cooling 
 
+[inside view](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/IMG_1175.PNG)
 
   I did a video in another version I made for my A1 mini clone, if you need some idea how it works, check it there https://www.youtube.com/watch?v=fmWzvf_7V3c&ab_channel=RayLenses
 
@@ -118,4 +120,5 @@ Links are provided for reference (Amazon, Bambu Store, Alibaba, etc.).
 - **BIGTREETECH EBB42 CAN Bus** – [Amazon](https://amzn.to/43OYGHk)  
 
 ---
-[https://github.com/raidycv/rx-toolhead-/blob/main/Images/IMG_1155.jpg]
+[Light weight](https://github.com/raidycv/rx-toolhead-/blob/main/Images/IMG_1155.jpg)
+[in action](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/AnimatedGIF%207.GIF)
