@@ -1,4 +1,4 @@
-[3D Model](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/Screenshot%202025-09-07%20at%2021.09.40.png)
+![3D Model](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/Screenshot%202025-09-07%20at%2021.09.40.png)
 ![RX VORON_7429](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/RAI04208.jpg)# rx-toolhead-
 This may be your favorite toolhead 
 🔗 Hop into the Discord: [https://discord.gg/jy8PF5Nt](https://discord.gg/tFhNFqTV)
@@ -120,5 +120,5 @@ Links are provided for reference (Amazon, Bambu Store, Alibaba, etc.).
 - **BIGTREETECH EBB42 CAN Bus** – [Amazon](https://amzn.to/43OYGHk)  
 
 ---
-[Light weight](https://github.com/raidycv/rx-toolhead-/blob/main/Images/IMG_1155.jpg)
-[in action](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/AnimatedGIF%207.GIF)
+![Light weight](https://github.com/raidycv/rx-toolhead-/blob/main/Images/IMG_1155.jpg)
+![in action](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/AnimatedGIF%207.GIF)
