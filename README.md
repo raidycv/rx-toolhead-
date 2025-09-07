@@ -19,13 +19,32 @@ This may be your favorite toolhead
    •    Consistently reliable — Solid mechanical structure, built to last
    •    Looks clean & professional — Not your average DIY toolheads 
 
+Support the project and get access to all STEP design files on my [Patreon](https://www.patreon.com/posts/rx-toolhead-v2-138345786?source=storefront)   (if you already purchased V1 files, you have full access to V2 files)
+
+
+V2 Changelog
+
+✂️ Filament Cutter
+Integrated a Bambu-style cutter blade for consistent and precise filament trimming.
+
+⚖️ Weight Optimization
+Adjusted wall thickness across most parts, making the toolhead lighter and better tuned for input shaping.
+
+🎛️ Filament Sensor Reposition
+Moved the filament sensor to the top for easier access and to provide more room for the filament cutter.
+
+🌈 Neopixel LED Wire Guide
+Added a dedicated guide for cleaner cable management.
+
+🔧 Carriage & Duct Improvements
+Minor structural and duct refinements for improved airflow, performance, and durability.
 
   
 [Front View]([URL_or_path_to_image](https://github.com/raidycv/rx-toolhead-/blob/main/Images/RX%20VORON_7429.jpeg))
  IMPORTANT!
  After installing, here is the new Rotation distance for A1 gear [rotation_distance: 4.7123281892773 ]
 
-This printhead version requires a cpap cooling 
+This printhead version requires a CPAP cooling 
 
 
   I did a video in another version I made for my A1 mini clone, if you need some idea how it works, check it there https://www.youtube.com/watch?v=fmWzvf_7V3c&ab_channel=RayLenses
