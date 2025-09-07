@@ -1,4 +1,4 @@
-![RX VORON_7429]([https://github.com/user-attachments/assets/7daf09bf-198c-435c-a06a-99a0c1a02909](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/RAI04208.jpg))# rx-toolhead-
+![RX VORON_7429](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/RAI04208.jpg)# rx-toolhead-
 This may be your favorite toolhead 
 🔗 Hop into the Discord: [https://discord.gg/jy8PF5Nt](https://discord.gg/tFhNFqTV)
 
