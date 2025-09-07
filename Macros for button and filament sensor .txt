@@ -12,8 +12,10 @@ insert_gcode:
     M117 Filament reloaded
         RESPOND TYPE=echo MSG=" Filament Loading"
   
+
     
-     #this is for you unload rbutton
+    
+     #this is for you  installed V1 with unload rbutton
 [gcode_button UNL_FILA]
 pin: ^!EBBCan:PB4                                                                 ;change to your pin name
 press_gcode:
@@ -52,3 +54,81 @@ gcode:
  M82                   # Put the extruder back into absolute mode.
  
  RESPOND TYPE=echo MSG="Unloading Filament"
+
+
+# ___________________________________________________________________________________________
+
+  [gcode_macro FILAMENT_CUT]   #⚠️DON`T FORGET TO CHANGE XY coordinates to your cutter arm position For V2 only
+gcode:
+    {% set fast_feed = 15000 %}
+    {% set slow_feed = 800 %}
+    {% set retract_feed = 3000 %}
+    {% set extrude_feed = 600 %}
+
+    # Restore travel speed after pause
+    RESTORE_TRAVEL_SPEED
+     
+    # Move near cutter
+    G90
+    G1 X225 F{fast_feed}    
+    G1 Y255 F{fast_feed}
+
+    ## Open the servo for cutting    # uncomment only If using a servo
+    #SERVO_OPEN
+    G4 P100
+
+    # Cutter press motions
+    G1 X247 F{slow_feed}
+    G1 X245 F{retract_feed}
+    G1 X247 F{slow_feed}
+    G1 X245 F{retract_feed}
+    G1 X247 F{slow_feed}
+    G1 E-2 F{extrude_feed}
+
+    # Retract away from cutter
+    G1 X230 F{retract_feed}
+
+      # # Close the servo   # uncomment only If using a servo
+      # SERVO_CLOSE
+    
+    # Load/unload filament
+    G1 E8 F{extrude_feed}
+    G1 E-14 F{extrude_feed}
+
+    G90  
+
+
+
+  #####################################################################
+#     ##                  Servo config ( ⚠️uncomment bellow if you are using a servo to open close the cutter arm)
+#     #####################################################################
+
+# [servo my_servo]
+# pin: PE9   #⚠️change to your pin name
+# maximum_servo_angle: 180
+# minimum_pulse_width: 0.0005
+# maximum_pulse_width: 0.0025
+
+# [gcode_macro SERVO_CLOSE]
+# description: Rotate the servo clockwise (left to right), then open it to 90 degrees
+# gcode:
+#   # Move servo to the right (counterclockwise direction)
+#   SET_SERVO SERVO=my_servo ANGLE=90   ; Move to 90 first, assuming left is the starting position
+#   G4 P500  ; Wait for the servo to settle
+#   # Now move to 90° to hold the "open" position (it will stay here)
+#   SET_SERVO SERVO=my_servo ANGLE=90   ; No power off here, it will hold
+#   G4 P500  ; Wait for the servo to settle
+#   SET_SERVO SERVO=my_servo WIDTH=0    ; Disable PWM (power off)
+
+# [gcode_macro SERVO_OPEN]
+# description: Rotate the servo counterclockwise (right to left), then close it to 0 degrees and cut power
+# gcode:
+#   # Move servo to the left (clockwise direction)
+#   SET_SERVO SERVO=my_servo ANGLE=90   ; Move to 90 first, assuming left is where it was
+#   G4 P500  ; Wait for the servo to settle
+#   # Now move to 0° to close it properly
+#   SET_SERVO SERVO=my_servo ANGLE=0    ; Move to 0 to close
+#     #####################################################################
+    
+    
+    
