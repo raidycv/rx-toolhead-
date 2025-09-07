@@ -22,6 +22,9 @@ This may be your favorite toolhead
 Support the project and get access to all STEP design files on my [Patreon](https://www.patreon.com/posts/rx-toolhead-v2-138345786?source=storefront)   (if you already purchased V1 files, you have full access to V2 files)
 
 
+
+
+[View the model in 360 here](https://app.shapr3d.com/v/IGfVmW0WUXRpsFOYrS4ia)
 V2 Changelog
 
 ✂️ Filament Cutter
