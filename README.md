@@ -23,8 +23,9 @@ Support the project and get access to all STEP design files on my [Patreon](http
 
 
 
-
 [View the model in 360 here](https://app.shapr3d.com/v/IGfVmW0WUXRpsFOYrS4ia)
+
+
 V2 Changelog
 
 ✂️ Filament Cutter
