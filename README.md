@@ -45,7 +45,7 @@ Added a dedicated guide for cleaner cable management.
 Minor structural and duct refinements for improved airflow, performance, and durability.
 
   
-[Front View]([URL_or_path_to_image](https://github.com/raidycv/rx-toolhead-/blob/main/Images/RX%20VORON_7429.jpeg))
+！[Front View]([URL_or_path_to_image](https://github.com/raidycv/rx-toolhead-/blob/main/Images/RX%20VORON_7429.jpeg))
  IMPORTANT!
  After installing, here is the new Rotation distance for A1 gear [rotation_distance: 4.7123281892773 ]
 
