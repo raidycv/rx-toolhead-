@@ -3,7 +3,10 @@
 This may be your favorite toolhead 
 🔗 Hop into the Discord: [https://discord.gg/jy8PF5Nt](https://discord.gg/tFhNFqTV)
 
-Support the project and get access to all STEP design files on my [Patreon](https://www.patreon.com/posts/rx-toolhead-v2-138345786?source=storefront)   (if you already purchased V1 files, you have full access to V2 files)
+All the print-ready files are included in the .3mf package and completely free to use.
+If you’d like full access to the editable STEP design files, consider supporting the project on my [Patreon](https://www.patreon.com/posts/rx-toolhead-v2-138345786?source=storefront) 
+ — it really helps me keep developing and sharing new designs!
+ and (if you already purchased V1 files, you have full access to V2 files)
 
 
 
@@ -53,7 +56,7 @@ This printhead version requires a CPAP cooling
 
   I did a video in another version I made for my A1 mini clone, if you need some idea how it works, check it there https://www.youtube.com/watch?v=fmWzvf_7V3c&ab_channel=RayLenses
 
-！[inside view](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/IMG_1175.PNG)
+![inside view](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/IMG_1175.PNG)
 BOOM
 Note: All links are provided for convenience. Buy if you want buy from them or you can find your own buying source.
 
