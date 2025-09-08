@@ -57,7 +57,8 @@ This printhead version requires a CPAP cooling
 
 
 BOOM
-⚠️ Note: All links are provided for convenience. I am not affiliated with any sellers.
+Note: All links are provided for convenience. Buy if you want buy from them or you can find your own buying source.
+
 # 🛠️ Printhead Parts List
 
 This is a curated list of components used in the printhead build, organized by category.  
