@@ -6,7 +6,6 @@ This may be your favorite toolhead
 All the print-ready files are included in the .3mf package and completely free to use.
 If you’d like full access to the editable STEP design files, consider supporting the project on my [Patreon](https://www.patreon.com/posts/rx-toolhead-v2-138345786?source=storefront) 
  — it really helps me keep developing and sharing new designs!
- 
  If you have already purchased V1 files, you have full access to V2 files
 
 
