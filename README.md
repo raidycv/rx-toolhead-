@@ -51,11 +51,9 @@ Minor structural and duct refinements for improved airflow, performance, and dur
 
 This printhead version requires a CPAP cooling 
 
-[inside view](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/IMG_1175.PNG)
-
   I did a video in another version I made for my A1 mini clone, if you need some idea how it works, check it there https://www.youtube.com/watch?v=fmWzvf_7V3c&ab_channel=RayLenses
 
-
+！[inside view](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/IMG_1175.PNG)
 BOOM
 Note: All links are provided for convenience. Buy if you want buy from them or you can find your own buying source.
 
