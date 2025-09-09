@@ -29,23 +29,23 @@ If you’d like full access to the editable STEP design files, consider supporti
 
 [View the model in 360 here](https://app.shapr3d.com/v/IGfVmW0WUXRpsFOYrS4ia)
 
+V2
 
-V2 Changelog
+✂️ New filament cutter – integrated with a Bambu-style cutter blade for reliable and precise filament trimming.
 
-✂️ Filament Cutter
-Integrated a Bambu-style cutter blade for consistent and precise filament trimming.
+⚖️ Optimized wall thickness – reduced across most parts, making the toolhead lighter and better suited for input shaping.
 
-⚖️ Weight Optimization
-Adjusted wall thickness across most parts, making the toolhead lighter and better tuned for input shaping.
+🎛️ Filament sensor repositioned – now mounted on top for easier access and to free up space for the filament cutter.
 
-🎛️ Filament Sensor Reposition
-Moved the filament sensor to the top for easier access and to provide more room for the filament cutter.
+🌈 Neopixel LED wire guide – added for cleaner cable management and a more organized setup.
 
-🌈 Neopixel LED Wire Guide
-Added a dedicated guide for cleaner cable management.
+🔧 Carriage refinements – improved ducting and minor structural adjustments for better overall performance and durability.
 
-🔧 Carriage & Duct Improvements
-Minor structural and duct refinements for improved airflow, performance, and durability.
+V2.1
+
+🌬️ Duct system upgrade – optimized cooling performance and made installation even easier.
+
+🧩 Carriage improvement – updated design for better Micro Probe compatibility.
 
   
 ！[Front View]([URL_or_path_to_image](https://github.com/raidycv/rx-toolhead-/blob/main/Images/RX%20VORON_7429.jpeg))
