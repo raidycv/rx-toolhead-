@@ -27,7 +27,7 @@ If you’d like full access to the editable STEP design files, consider supporti
 
 
 
-[View the model in 360 here](https://app.shapr3d.com/v/IGfVmW0WUXRpsFOYrS4ia)
+[View the model in 360 here]([https://app.shapr3d.com/v/IGfVmW0WUXRpsFOYrS4ia)
 
 V2
 
