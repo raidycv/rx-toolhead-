@@ -24,6 +24,8 @@ If you’d like full access to the editable STEP design files, consider supporti
    •    Consistently reliable — Solid mechanical structure, built to last
    •    Looks clean & professional — Not your average DIY toolheads 
 
+I chose the A1 single-gear extruder because it consistently produces cleaner surfaces and fewer gear marks than dual-gear designs. Fewer mating teeth and a simpler filament path mean less micro-slip, lower backlash, and fewer vibration/feeding artifacts — which is exactly what [PRINTING PERSPECTIVE](https://youtube.com/watch?v=z2X4dc7jg4E&si=Sjdnat-SiLD-ilHf&t=2m38s) showed in his tests. In practice (with my RX toolhead), the A1 extruder gear gives almost no visible VFAs on prints and handles flexible filaments more gently than the dual-gear alternatives.
+
 
 
 
