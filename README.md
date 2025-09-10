@@ -59,7 +59,16 @@ This printhead version requires a CPAP cooling
 
   I did a video in another version I made for my A1 mini clone, if you need some idea how it works, check it there https://www.youtube.com/watch?v=fmWzvf_7V3c&ab_channel=RayLenses
 
+![view](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/exploded%20viewRX%20VORON%20exploded%20view_1209.PNG)
 ![inside view](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/IMG_1175.PNG)
+![view](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/exploded%20viewRX%20(3)-9.JPG)
+![view](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/exploded%20viewRX%20(3)-8.JPG)
+![view](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/exploded%20viewRX%20(3)-10.JPG)
+![view](https://github.com/raidycv/rx-toolhead-/blob/main/Images-V2/exploded%20viewRX%20(3)-9%202.JPG)
+
+
+
+
 BOOM
 Note: All links are provided for convenience. Buy if you want buy from them or you can find your own buying source.
 
