@@ -16,7 +16,7 @@ If you’d like full access to the editable STEP design files, consider supporti
    •    Incredible print quality — Fully compatible with Bambu slicer profiles
    •    Quick-swap nozzles — Get back to printing in seconds
    •    Modular design — Upgrade and replace parts with ease
-   •    Compatible with bambulab A1, H2D,P1P,P1S hotned.
+   •    Compatible with bambu A1, H2D,P1P,P1S hotned.
    •    Integrated filament sensor — Internal and reliable
    •    Auto filament loading + single-button unload — Smooth and user-friendly
    •    Lightweight toolhead — Perfect for input shaping and high-speed accuracy
