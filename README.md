@@ -108,7 +108,7 @@ Links are provided for reference (Amazon, Bambu Store, Alibaba, etc.).
 - **Spring** – [Amazon](https://amzn.to/3SreQjO)  
 - **M3×20mm Dowel Pin** – [Amazon](https://amzn.to/4kFPafm)  
 - **6×2.5 Magnet** – [Amazon](https://amzn.to/3Z9IBtg)
-- 
+- Filament cutter Blade  -  [Bambu Store](https://us.store.bambulab.com/products/replacement-filament-cutter?srsltid=AfmBOoqo-i4g9oNISCM_atNLvwtLYxyT2jDOe55YK-oy97oBQSTqUSjc)
 
 ---
 
