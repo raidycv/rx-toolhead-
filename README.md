@@ -8,7 +8,7 @@ If you’d like full access to the editable STEP design files, consider supporti
  — it really helps me keep developing and sharing new designs!
  If you have already purchased V1 files, you have full access to V2 files
 
-
+Visit my [Printables]() to see the latest Updates
 
  If you’re chasing top-tier print quality without breaking the bank, this DIY A1-style and H2D is a game-changer. It’s modular, efficient, and full of smart upgrades that rival even the original.
 
@@ -107,15 +107,14 @@ Links are provided for reference (Amazon, Bambu Store, Alibaba, etc.).
 ## 🛠️ Motion & Mechanics
 - **Spring** – [Amazon](https://amzn.to/3SreQjO)  
 - **M3×20mm Dowel Pin** – [Amazon](https://amzn.to/4kFPafm)  
-- **7×4 Magnet** – [Amazon](https://amzn.to/3Z9IBtg)
+- **6×2.5 Magnet** – [Amazon](https://amzn.to/3Z9IBtg)
 - 
 
 ---
 
 ## 🔩 Hardware & Fasteners
-- **M3 Square Nuts** – [Amazon](https://amzn.to/44UxJTG)  
 - **Metric Screws Kit** – [Amazon](https://amzn.to/4kk8a3j)  
-- **M3 Heat Set Inserts** – [Amazon](https://amzn.to/4kFgrOS)  
+- **M3*4*4.2 Heat Set Inserts** – [Amazon](https://amzn.to/4kFgrOS)  
 
 
 ---
